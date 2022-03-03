@@ -1,0 +1,15 @@
+{
+
+“name”: “Discord BOT DM - Apafar”,
+
+“version”: “1.0.0”,
+
+“description”: “My First Discord Bot [ coded by Apafar ]”,
+
+“main”: “main”,
+
+“author”: “Apafar”,
+
+“dependencies”: {}
+
+}
